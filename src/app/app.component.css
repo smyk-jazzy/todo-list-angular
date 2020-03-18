@@ -1,5 +1,5 @@
-.mr-5 {
-  margin-right: 5px;
+.ml-5 {
+  margin-left: 5px;
 }
 
 .mt-5 {
@@ -11,7 +11,7 @@
   text-decoration: line-through;
 }
 
-input[type="date"].disabled::-webkit-inner-spin-button {
+input[type='date'].disabled::-webkit-inner-spin-button {
   display: none;
 }
 
